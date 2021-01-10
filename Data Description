@@ -1,0 +1,36 @@
+Data Requirements & Description
+In this project, we will only analyse the data of Toronto
+
+We will use the following datasets for exploring Toronto.
+
+Data 1: Toronto Neighborhoods & Demography
+1. List of Toronto Neighborhoods by Postal Code
+I will be using the Wikipedia dataset as my base for the list of neighborhoods from the following link:
+https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+2. List of Toroto neighborhood population broken down by Postal Code
+I will import the list of polulations by Postal Code from the following link:
+https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/File.cfm?T=1201&SR=1&RPP=9999&PR=0&CMA=0&CSD=0&S=22&O=A&Lang=Eng&OFT=CSV
+
+Data 2: Toronto Neighborhoods Income
+1. Canandian National Average on Net Income by Postal Code
+Download this data from the following website link:
+https://www150.statcan.gc.ca/n1/daily-quotidien/180313/dq180313a-eng.htm
+Refer file: Toronto_MeanIncome.csv
+In 2016, Canadian famkilies & unattched individuals had a median post-tax income of $57,000.
+
+2. Mean Net Income of Toronto Neighborhoods
+Download this data manually from the following website link:
+https://www150.statcan.gc.ca/n1/daily-quotidien/180313/t001a-eng.htm
+Refer file: to_geo_space.csv
+
+Data3: Toronto existing restaurants with their cuisines & farmers markets
+We will use these below links to analze the existing competetion:
+
+Details of Farmers Market : https://data.ontario.ca/en/dataset/farmers-markets
+List of cusines : https://en.wikipedia.org/wiki/Cuisine_in_Toronto
+We will scrape these websites and manually download the data whereever needed.
+
+Data 4: List of all Restaurant venues in Toronto neighborhoods by Postal Code
+Toronto geographical coordinates data will be utilized as input for the Foursquare API, that will be leveraged to provision venues information for each neighborhood. We will use the Foursquare API to explore neighborhoods in Toronto.
+https://foursquare.com/developers/apps
