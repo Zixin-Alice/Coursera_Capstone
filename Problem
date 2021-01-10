@@ -1,0 +1,46 @@
+Overview
+The aim of this project is to explore the city of Toronto data and build a recommender system to start a new restaurant. To open a new restaurant it is important to it is impotant to understand the demographic of Toronto with the market study to analyze the competition and sustainability.
+
+Toronto, the capital of the province of Ontario, is a most populous Canadian city along Lake Ontario’s northwestern shore. It has a population of 2.8 million and it is at the heart of the Greater Toronto Area (GTA) which contains a further 6.2 million people in total. The city is the anchor of the Golden Horseshoe region in Southern Ontario which wraps around Lake Ontario from Toronto to Niagara Falls and totals over 8.5 million residents, approximately a quarter of Canada's entire population. Toronto is the fourth largest city and fifth largest urban agglomeration in North America.
+
+Toronto encompasses a geographical area formerly administered by many separate municipalities. Each have developed a distinct history and identity over the years and their names remain in common use among Torontonians. Former municipalities include East York, Etobicoke, Forest Hill, Mimico, North York, Parkdale, Scarborough, Swansea, Weston and York. Throughout the city there exist hundreds of small neighbourhoods and some larger neighbourhoods covering a few square kilometres.
+
+Due to such vast diverse population and big geographical area, there also exists big competition between businesses. Therefore it became very challenging for stake holders or new business to decide which area they should start their business to get higher revenue with lowest possible competition and better revenue with sutainability. As it is a one of the major developed city so cost of doing business is also one of the highest. Thus, any new business venture or expansion needs to be analysed carefully. The insights derived from analysis will give good understanding of the business environment which help in strategically targeting the market. This will help in reduction of risk and better ROI.
+
+
+Problem Description
+Toronto is generally considered to be one of North America's top food cities. As one of the most (if not the single most) multicultural cities in the world, Toronto has authentic cuisine from most of the world's cultural and ethnic groups. It is easy to eat out in Toronto and have a superb meal for cheap, while even the more distant neighbourhoods in the city frequently contain one or more ethnic grocers' with both local stock and freshly imported products and brands from all over the world. Since Toronto is a city of a wide variety of distinct neighbourhoods, there are excellent restaurants scattered across the city. Many of the trendiest and hottest restaurants in Toronto are located outside of the downtown core and visitors should be prepared to travel a short drive or transit trip to visit them.
+
+A restaurant is a business which prepares and serves food and drink to customers in return for money, either paid before the meal, after the meal, with an open account or paid virtually serving pick-ups and lastly deliveries considering the ongoing pandemic. The metropolitian has some existing interesting food districs namely:
+
+Cabbagetown
+Baldwin Village
+Chinatown
+Hakka Food
+King Street (between University Ave & Spadina Ave)
+Queen Street (between Empire & Leslie), College Street
+Bayview Ave, Bloor St
+Yorkville
+Downsview Park Flea Market food court
+
+
+So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as:
+So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as:
+
+Toronto Population
+Toronto Demographics using postal codes
+Toronto Average income post taxes by postal code
+Are there any Farmers Markets, Wholesale markets etc nearby so that the ingredients can be purchased fresh to maintain quality and cost?
+List of competitors in that location by postal codes
+Cuisine served / Menu of the competitors
+Unbroached markets & Saturated markets etc
+Target Audience
+I have been assigned the task to recommend a fruitful location to open a new reataurant in the neighborhoods of Tonoto by ABC Company. The leadership also expects to understand the reasoning behind the analysis of this recommendation engine.
+
+Success Criteria
+The reccomendation system will consider to be a success where ABC Company can open a retaurant which can operate smoothly with a steady revenue in that neighborhood with close proxiity to neareast suppliers. So following KPIs can be ensured:
+
+Location of the restaurant with the neighborhood
+Measure existing competetion by clustering common restaurants by neighborhoods
+Mean income of the neighborhood with Canadian National Average
+Population by neighborhood
